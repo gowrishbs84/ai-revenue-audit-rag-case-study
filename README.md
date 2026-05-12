@@ -14,7 +14,7 @@ Proposed Solution
 The solution uses a RAG-based AI architecture to retrieve transactional and financial data, identify variances, summarize discrepancies, and generate gaming revenue reports.
 
 Architecture
-check the architecture folder for the diagram.
+![Architecture Diagram](architecture/architecture-diagram.png)
 
 Key Features
 - Automated revenue reconciliation
